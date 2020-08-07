@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/EloFran/vuedemo#readme",
   "dependencies": {
-    "vuepress": "1.5.3"
+    "vuepress": "^0.8.4"
  }
 }
