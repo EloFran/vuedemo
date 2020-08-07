@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: preambulo
+  label: Preámbulo
+  match: "**/*"
+- type: directory
+  path: ''
+  label: constitucion
+  create: all
+  match: "**/*"
 - type: heading
   label: Sidebar
 upload_dir: uploads
