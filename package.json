@@ -1,0 +1,24 @@
+{
+  "name": "vuedemo",
+  "version": "1.0.0",
+  "description": "vuepress demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloFran/vuedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EloFran/vuedemo/issues"
+  },
+  "homepage": "https://github.com/EloFran/vuedemo#readme",
+  "dependencies": {
+    "vuepress": "^1.5.3"
+ },
+}
